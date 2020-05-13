@@ -23,4 +23,5 @@ then run
 Open [http://localhost:3000] to view it in the browser.
 
 screencapture-localhost-3000-2020-05-13-13_11_53
+
 screencapture-localhost-3000-search-2020-05-13-13_12_46
