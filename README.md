@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can clone the App using the below link.
 
-`git clone https://github.com/sudhakarp0101/udacity-project1.git`
+`git clone https://github.com/sudhakarp0101/udacity-reactnd-project-myreads.git`
 
 In the project directory, you can run:
 
